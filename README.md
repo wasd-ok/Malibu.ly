@@ -1,3 +1,5 @@
+<img src="assets/malibu.ly_readme_image.png" width="300" alt="Malibu.ly">
+
 # Malibu.ly
 
 | Features |
